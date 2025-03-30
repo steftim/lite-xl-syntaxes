@@ -1,0 +1,24 @@
+{
+  "addons": [
+    {
+      "description": "Syntax for the [device tree source](https://docs.kernel.org/devicetree/usage-model.html) model",
+      "id": "language_devicetree",
+      "mod_version": "3",
+      "path": "plugins/language_devicetree.lua",
+      "tags": [
+        "language"
+      ],
+      "version": "0.1"
+    },
+    {
+      "description": "Syntax for [Kconfig](https://docs.kernel.org/kbuild/kconfig-language.html) language",
+      "id": "language_kconfig",
+      "mod_version": "3",
+      "path": "plugins/language_kconfig.lua",
+      "tags": [
+        "language"
+      ],
+      "version": "0.1"
+    }
+  ]
+}
