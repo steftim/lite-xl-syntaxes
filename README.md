@@ -32,15 +32,10 @@ you may install plugins by doing
 
 ---
 
-## Plugins
-
-
 ## Languages
 
 | Language                                                       | Description                                                                                    |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [`language_devicetree`](plugins/language_devicetree.lua?raw=1) | Syntax for the [device tree source](https://docs.kernel.org/devicetree/usage-model.html) model |
 | [`language_kconfig`](plugins/language_kconfig.lua?raw=1)       | Syntax for [Kconfig](https://docs.kernel.org/kbuild/kconfig-language.html) language            |
-
-## Libraries
 
