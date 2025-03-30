@@ -22,6 +22,7 @@ Or, if you have a Lite XL plugin manager, such as [`lpm`](https://github.com/ada
 you may install plugins by doing
 
 ```
+  lpm repo add https://github.com/steftim/lite-xl-syntaxes.git
   lpm install plugin_name
 ```
 
